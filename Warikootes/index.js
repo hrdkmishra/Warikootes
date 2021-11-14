@@ -87,4 +87,4 @@ client.on("message", msg => {
 })
 
 keepAlive()
-client.login('ODcyODQ2NTYxNzIwMjk1NDg0.YQvztQ.lWGKKTVi3tzNuhNeN3hFg-B6dWA')
+client.login('your-key')
